@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Aula12</string>
+
+    <string name="selecione">Selecione Estado</string>
+    <string name="submit">Enviar</string>
+    <string name="carro1">Astra</string>
+    <string name="carro2">Vectra </string>
+    <string name="carro3">Zafira</string>
+    <string name="carro4">Ducato </string>
+    <string name="carro5">Panorama</string>
+
+
+    <string name="sbotao">OK</string>
+        <string-array name="estados_array">
+            <item>São Paulo</item>
+            <item>Bahia</item>
+            <item>Acre</item>
+        </string-array>
+    <string name="title_activity_secondary">Lista de carros</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
